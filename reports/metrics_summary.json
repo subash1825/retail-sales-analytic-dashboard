@@ -1,0 +1,224 @@
+{
+  "total_sales_revenue": 9047972.0,
+  "unique_orders_count": 906,
+  "average_order_value": 9986.72,
+  "total_quantity_sold": 2528,
+  "unique_products_count": 25,
+  "highest_revenue_product": {
+    "product_id": "PROD-HK-004",
+    "product_name": "Robotic Vacuum Cleaner",
+    "revenue": 1574895.0
+  },
+  "top_5_products_by_revenue": [
+    {
+      "Product ID": "PROD-HK-004",
+      "Product Name": "Robotic Vacuum Cleaner",
+      "total_revenue": 1574895.0
+    },
+    {
+      "Product ID": "PROD-EL-003",
+      "Product Name": "Bluetooth Soundbar 120W",
+      "total_revenue": 815898.0
+    },
+    {
+      "Product ID": "PROD-EL-002",
+      "Product Name": "Smart Fitness Watch Ultra",
+      "total_revenue": 688894.0
+    },
+    {
+      "Product ID": "PROD-HK-002",
+      "Product Name": "Cold Press Slow Juicer",
+      "total_revenue": 654423.0
+    },
+    {
+      "Product ID": "PROD-HK-001",
+      "Product Name": "Stainless Steel Digital Air Fryer",
+      "total_revenue": 508704.0
+    }
+  ],
+  "top_5_products_by_quantity": [
+    {
+      "Product ID": "PROD-HK-005",
+      "Product Name": "Electric Borosilicate Glass Kettle",
+      "total_quantity": 132
+    },
+    {
+      "Product ID": "PROD-BS-004",
+      "Product Name": "Minimalist Aluminum Laptop Stand",
+      "total_quantity": 128
+    },
+    {
+      "Product ID": "PROD-BS-002",
+      "Product Name": "Executive Fountain Pen Gift Set",
+      "total_quantity": 123
+    },
+    {
+      "Product ID": "PROD-BS-001",
+      "Product Name": "Python & SQL Data Masterclass",
+      "total_quantity": 120
+    },
+    {
+      "Product ID": "PROD-BS-005",
+      "Product Name": "Desk LED Task Lamp with Wireless Charger",
+      "total_quantity": 116
+    }
+  ],
+  "monthly_revenue_trend": [
+    {
+      "Year_Month": "2024-01",
+      "monthly_revenue": 422399.0,
+      "order_count": 39,
+      "quantity_sold": 101,
+      "mom_change_pct": 0.0
+    },
+    {
+      "Year_Month": "2024-02",
+      "monthly_revenue": 666307.0,
+      "order_count": 69,
+      "quantity_sold": 193,
+      "mom_change_pct": 57.74
+    },
+    {
+      "Year_Month": "2024-03",
+      "monthly_revenue": 751964.0,
+      "order_count": 66,
+      "quantity_sold": 186,
+      "mom_change_pct": 12.86
+    },
+    {
+      "Year_Month": "2024-04",
+      "monthly_revenue": 906879.0,
+      "order_count": 79,
+      "quantity_sold": 221,
+      "mom_change_pct": 20.6
+    },
+    {
+      "Year_Month": "2024-05",
+      "monthly_revenue": 1014454.0,
+      "order_count": 105,
+      "quantity_sold": 296,
+      "mom_change_pct": 11.86
+    },
+    {
+      "Year_Month": "2024-06",
+      "monthly_revenue": 840204.0,
+      "order_count": 94,
+      "quantity_sold": 246,
+      "mom_change_pct": -17.18
+    },
+    {
+      "Year_Month": "2024-07",
+      "monthly_revenue": 850069.0,
+      "order_count": 94,
+      "quantity_sold": 231,
+      "mom_change_pct": 1.17
+    },
+    {
+      "Year_Month": "2024-08",
+      "monthly_revenue": 963556.0,
+      "order_count": 102,
+      "quantity_sold": 294,
+      "mom_change_pct": 13.35
+    },
+    {
+      "Year_Month": "2024-09",
+      "monthly_revenue": 945874.0,
+      "order_count": 95,
+      "quantity_sold": 276,
+      "mom_change_pct": -1.84
+    },
+    {
+      "Year_Month": "2024-10",
+      "monthly_revenue": 682918.0,
+      "order_count": 83,
+      "quantity_sold": 232,
+      "mom_change_pct": -27.8
+    },
+    {
+      "Year_Month": "2024-11",
+      "monthly_revenue": 533757.0,
+      "order_count": 52,
+      "quantity_sold": 143,
+      "mom_change_pct": -21.84
+    },
+    {
+      "Year_Month": "2024-12",
+      "monthly_revenue": 469591.0,
+      "order_count": 38,
+      "quantity_sold": 109,
+      "mom_change_pct": -12.02
+    }
+  ],
+  "best_performing_month": {
+    "year_month": "2024-05",
+    "revenue": 1014454.0
+  },
+  "lowest_performing_month": {
+    "year_month": "2024-01",
+    "revenue": 422399.0
+  },
+  "sales_by_region": [
+    {
+      "region": "North",
+      "revenue": 2655642.0,
+      "order_count": 255,
+      "revenue_share_pct": 29.35
+    },
+    {
+      "region": "South",
+      "revenue": 2369532.0,
+      "order_count": 231,
+      "revenue_share_pct": 26.19
+    },
+    {
+      "region": "West",
+      "revenue": 1852917.0,
+      "order_count": 200,
+      "revenue_share_pct": 20.48
+    },
+    {
+      "region": "East",
+      "revenue": 1514919.0,
+      "order_count": 150,
+      "revenue_share_pct": 16.74
+    },
+    {
+      "region": "Central",
+      "revenue": 654962.0,
+      "order_count": 70,
+      "revenue_share_pct": 7.24
+    }
+  ],
+  "sales_by_category": [
+    {
+      "category": "Home & Kitchen",
+      "revenue": 3398383.0,
+      "quantity": 517,
+      "revenue_contribution_pct": 37.56
+    },
+    {
+      "category": "Electronics",
+      "revenue": 2523793.0,
+      "quantity": 507,
+      "revenue_contribution_pct": 27.89
+    },
+    {
+      "category": "Fashion & Apparel",
+      "revenue": 1517818.0,
+      "quantity": 482,
+      "revenue_contribution_pct": 16.78
+    },
+    {
+      "category": "Books & Stationery",
+      "revenue": 848136.0,
+      "quantity": 564,
+      "revenue_contribution_pct": 9.37
+    },
+    {
+      "category": "Beauty & Personal Care",
+      "revenue": 759842.0,
+      "quantity": 458,
+      "revenue_contribution_pct": 8.4
+    }
+  ]
+}

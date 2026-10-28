@@ -1,0 +1,1501 @@
+Order ID,Order Date,Product ID,Product Name,Category,Region,Quantity,Unit Price,Sales Amount
+ORD-1363,2024-10-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1695,2024-07-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,2,1499.0,2998.0
+ORD-1235,2024-03-20,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1367,2024-08-07,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1587,2024-09-05,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,Central,1,1899.0,1899.0
+ORD-1710,2024-05-15,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,1,799.0,799.0
+ORD-1106,2024-03-10,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1659,2024-08-23,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1433,2024-02-19,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,3,599.0,1797.0
+ORD-1668,2024-10-30,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,Central,2,1899.0,3798.0
+ORD-1864,2024-10-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1748,2024-10-28,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1186,2024-10-26,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,Central,1,1899.0,1899.0
+ORD-1527,2024-06-28,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,1,1599.0,1599.0
+ORD-1470,2024-09-13,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,2,2499.0,4998.0
+ORD-1802,2024-02-26,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,3,4999.0,14997.0
+ORD-1377,2024-07-08,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1560,2024-12-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1295,2024-07-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1598,2024-11-11,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1313,2024-10-07,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,1,2899.0,2899.0
+ORD-1680,2024-07-26,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1406,2024-10-06,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,2,799.0,1598.0
+ORD-1193,2024-12-20,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,2,2299.0,4598.0
+ORD-1261,2024-11-10,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1906,2024-02-29,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,2,5299.0,10598.0
+ORD-1739,2024-08-22,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1571,2024-07-06,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1890,2024-03-13,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1546,2024-03-16,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1850,2024-07-18,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1737,2024-05-29,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,3,899.0,2697.0
+ORD-1085,2024-05-22,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,2,2899.0,5798.0
+ORD-1226,2024-07-26,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1290,2024-05-31,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,4,4199.0,16796.0
+ORD-1187,2024-03-28,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,3,1499.0,4497.0
+ORD-1439,2024-06-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1695,2024-07-14,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,3,5299.0,15897.0
+ORD-1770,2024-06-19,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1711,2024-09-24,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,5,4199.0,20995.0
+ORD-1373,2024-09-06,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1831,2024-08-15,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1040,2024-09-03,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,2,3999.0,7998.0
+ORD-1670,2024-06-22,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,Central,2,4499.0,8998.0
+ORD-1262,2024-08-30,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1634,2024-05-19,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1163,2024-07-09,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1191,2024-08-22,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1028,2024-05-17,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,4,7999.0,31996.0
+ORD-1385,2024-03-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,1,899.0,899.0
+ORD-1263,2024-08-28,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,2,1499.0,2998.0
+ORD-1146,2024-04-30,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,2,4499.0,8998.0
+ORD-1334,2024-10-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1769,2024-04-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1418,2024-07-06,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,3,1499.0,4497.0
+ORD-1415,2024-09-16,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1548,2024-02-07,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1382,2024-06-10,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1692,2024-10-04,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,3,899.0,2697.0
+ORD-1026,2024-06-19,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,3,799.0,2397.0
+ORD-1043,2024-11-15,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1181,2024-05-05,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1753,2024-04-10,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1837,2024-12-16,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1414,2024-05-09,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1593,2024-07-15,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1493,2024-12-27,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,2,14999.0,29998.0
+ORD-1640,2024-09-20,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1075,2024-12-09,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,1,1799.0,1799.0
+ORD-1898,2024-02-10,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1362,2024-06-25,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,3,1899.0,5697.0
+ORD-1663,2024-06-20,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,2,3199.0,6398.0
+ORD-1893,2024-11-25,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1646,2024-07-26,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1046,2024-07-26,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1228,2024-05-24,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1508,2024-09-18,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,2,1199.0,2398.0
+ORD-1872,2024-06-01,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1151,2024-04-13,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,2,1899.0,3798.0
+ORD-1668,2024-10-30,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,1,4199.0,4199.0
+ORD-1166,2024-08-04,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,4,799.0,3196.0
+ORD-1251,2024-06-11,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1075,2024-12-09,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,4,2199.0,8796.0
+ORD-1017,2024-04-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1149,2024-09-19,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,East,1,8499.0,8499.0
+ORD-1271,2024-08-06,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,5,1799.0,8995.0
+ORD-1101,2024-05-22,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1039,2024-08-06,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1234,2024-10-05,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1359,2024-09-10,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1462,2024-04-04,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1829,2024-08-28,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1478,2024-11-06,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1402,2024-08-25,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1521,2024-05-07,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,3,1899.0,5697.0
+ORD-1305,2024-09-19,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,1,599.0,599.0
+ORD-1733,2024-02-05,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,3,1899.0,5697.0
+ORD-1828,2024-06-27,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,2199.0,2199.0
+ORD-1489,2024-10-14,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1655,2024-08-19,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1587,2024-09-05,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,Central,1,599.0,599.0
+ORD-1886,2024-06-22,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,1,6499.0,6499.0
+ORD-1722,2024-05-21,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1439,2024-06-05,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1316,2024-10-27,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,5,1599.0,7995.0
+ORD-1880,2024-09-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1710,2024-05-15,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,Central,3,2499.0,7497.0
+ORD-1025,2024-01-06,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1034,2024-02-17,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,2,4999.0,9998.0
+ORD-1732,2024-05-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,2,1199.0,2398.0
+ORD-1713,2024-09-26,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1014,2024-07-28,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,East,2,4199.0,8398.0
+ORD-1325,2024-11-23,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,Central,2,14999.0,29998.0
+ORD-1301,2024-01-29,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,Central,1,1199.0,1199.0
+ORD-1904,2024-06-14,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,2,799.0,1598.0
+ORD-1507,2024-03-03,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1647,2024-04-09,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1875,2024-09-26,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,2,4199.0,8398.0
+ORD-1265,2024-04-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1570,2024-03-13,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1603,2024-08-31,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1070,2024-08-21,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,2,1899.0,3798.0
+ORD-1398,2024-09-06,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1754,2024-05-09,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,4,1499.0,5996.0
+ORD-1497,2024-03-17,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,2,2899.0,5798.0
+ORD-1144,2024-08-30,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,4,1899.0,7596.0
+ORD-1132,2024-11-10,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,4,1899.0,7596.0
+ORD-1465,2024-06-09,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,2,4999.0,9998.0
+ORD-1456,2024-09-27,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,2,799.0,1598.0
+ORD-1888,2024-07-15,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,2,1799.0,3598.0
+ORD-1675,2024-02-07,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1047,2024-06-05,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1460,2024-03-27,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1839,2024-05-31,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,1,1599.0,1599.0
+ORD-1158,2024-05-18,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,2,1499.0,2998.0
+ORD-1597,2024-01-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,4,4199.0,16796.0
+ORD-1010,2024-04-10,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,1,2299.0,2299.0
+ORD-1584,2024-02-11,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,4,899.0,3596.0
+ORD-1212,2024-05-26,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,4,8499.0,33996.0
+ORD-1617,2024-09-22,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1865,2024-11-20,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,East,4,4199.0,16796.0
+ORD-1304,2024-01-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,1,1199.0,1199.0
+ORD-1165,2024-03-29,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1335,2024-06-06,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,3,1899.0,5697.0
+ORD-1512,2024-06-07,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1339,2024-10-29,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1584,2024-02-11,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,3,2499.0,7497.0
+ORD-1688,2024-05-05,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,1,2299.0,2299.0
+ORD-1110,2024-11-23,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,2,1899.0,3798.0
+ORD-1122,2024-06-23,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1367,2024-08-07,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,2,2499.0,4998.0
+ORD-1476,2024-06-14,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1538,2024-11-27,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,3,4999.0,14997.0
+ORD-1621,2024-12-16,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,2,1899.0,3798.0
+ORD-1770,2024-06-19,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,3,1499.0,4497.0
+ORD-1299,2024-07-07,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1204,2024-01-13,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1139,2024-08-23,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1636,2024-07-11,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1611,2024-07-29,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1218,2024-05-21,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1025,2024-01-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1257,2024-03-09,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1466,2024-06-04,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1435,2024-09-11,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1266,2024-03-05,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1062,2024-10-14,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,3,14999.0,44997.0
+ORD-1067,2024-05-03,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,3,4499.0,13497.0
+ORD-1349,2024-05-23,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,4,4999.0,19996.0
+ORD-1739,2024-08-22,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,4,2299.0,9196.0
+ORD-1174,2024-10-27,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1655,2024-08-19,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1373,2024-09-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1568,2024-09-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,2,1499.0,2998.0
+ORD-1632,2024-02-14,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1433,2024-02-19,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1076,2024-08-05,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,2,1199.0,2398.0
+ORD-1445,2024-07-09,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1168,2024-08-02,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,3,2199.0,6597.0
+ORD-1488,2024-05-03,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1558,2024-07-21,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1664,2024-05-24,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,West,1,3999.0,3999.0
+ORD-1623,2024-03-09,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,2,5299.0,10598.0
+ORD-1223,2024-05-26,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1758,2024-10-17,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,3,1199.0,3597.0
+ORD-1018,2024-07-15,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,5,3999.0,19995.0
+ORD-1413,2024-10-10,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,2,2899.0,5798.0
+ORD-1430,2024-09-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,Central,1,4499.0,4499.0
+ORD-1382,2024-06-10,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1281,2024-10-17,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1437,2024-09-26,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1353,2024-04-29,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1534,2024-04-01,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,2,899.0,1798.0
+ORD-1213,2024-05-17,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,2,8499.0,16998.0
+ORD-1427,2024-04-26,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1774,2024-05-06,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1221,2024-03-10,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1097,2024-09-21,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1537,2024-01-26,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1775,2024-03-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,1,14999.0,14999.0
+ORD-1548,2024-02-07,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1341,2024-09-19,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,Central,1,1899.0,1899.0
+ORD-1600,2024-05-18,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,5,2299.0,11495.0
+ORD-1787,2024-03-22,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,Central,4,5299.0,21196.0
+ORD-1344,2024-12-06,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,3,649.0,1947.0
+ORD-1337,2024-02-12,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,3,5299.0,15897.0
+ORD-1724,2024-02-12,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1719,2024-11-27,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1116,2024-10-16,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,1,3999.0,3999.0
+ORD-1419,2024-10-29,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1195,2024-06-20,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,2,1499.0,2998.0
+ORD-1483,2024-04-24,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1037,2024-01-08,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1426,2024-06-24,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1145,2024-04-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1549,2024-10-07,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1824,2024-02-19,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,4,5299.0,21196.0
+ORD-1158,2024-05-18,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,3,4499.0,13497.0
+ORD-1335,2024-06-06,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1727,2024-08-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1592,2024-10-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1120,2024-08-13,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1726,2024-02-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1525,2024-09-06,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1361,2024-08-18,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1610,2024-11-27,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,1,2499.0,2499.0
+ORD-1131,2024-04-05,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1348,2024-08-16,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,3,1199.0,3597.0
+ORD-1017,2024-04-14,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1032,2024-02-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,3,899.0,2697.0
+ORD-1734,2024-11-11,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1536,2024-02-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1590,2024-09-23,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,3,1799.0,5397.0
+ORD-1367,2024-08-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,East,1,8499.0,8499.0
+ORD-1525,2024-09-06,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1289,2024-02-04,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1615,2024-04-09,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,Central,1,2299.0,2299.0
+ORD-1518,2024-07-03,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1585,2024-11-10,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,2,1899.0,3798.0
+ORD-1751,2024-01-09,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1210,2024-08-10,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,3,8499.0,25497.0
+ORD-1699,2024-06-07,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,5,6499.0,32495.0
+ORD-1389,2024-07-31,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1576,2024-01-23,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1513,2024-08-18,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,2199.0,2199.0
+ORD-1061,2024-04-25,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1789,2024-09-19,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-1178,2024-01-06,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,3,1799.0,5397.0
+ORD-1879,2024-06-08,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,4,8499.0,33996.0
+ORD-1391,2024-03-19,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,3,1599.0,4797.0
+ORD-1682,2024-08-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,2,1599.0,3198.0
+ORD-1596,2024-07-07,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,3,1199.0,3597.0
+ORD-1624,2024-05-29,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,2,799.0,1598.0
+ORD-1404,2024-07-18,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1452,2024-07-30,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1804,2024-07-27,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1263,2024-08-28,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,East,5,3199.0,15995.0
+ORD-1700,2024-10-06,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,1,2899.0,2899.0
+ORD-1880,2024-09-05,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1882,2024-05-20,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,3,2199.0,6597.0
+ORD-1803,2024-12-10,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,1,3999.0,3999.0
+ORD-1878,2024-06-24,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1143,2024-02-13,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1374,2024-04-12,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1588,2024-02-10,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1872,2024-01-06,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1162,2024-04-09,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,3,14999.0,44997.0
+ORD-1767,2024-03-14,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1123,2024-03-30,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,1,2299.0,2299.0
+ORD-1216,2024-07-03,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,2,1799.0,3598.0
+ORD-1243,2024-07-25,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1885,2024-06-25,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1034,2024-02-17,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1184,2024-09-26,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1666,2024-10-09,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1260,2024-01-06,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1626,2024-11-05,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1830,2024-04-24,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1895,2024-11-20,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,1,3999.0,3999.0
+ORD-1202,2024-03-04,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1679,2024-10-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1300,2024-05-26,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1702,2024-08-29,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1495,2024-06-25,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1435,2024-11-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,2,7999.0,15998.0
+ORD-1141,2024-06-29,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,2,2199.0,4398.0
+ORD-1774,2024-05-06,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1119,2024-08-20,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,2,2199.0,4398.0
+ORD-1813,2024-07-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,2,1899.0,3798.0
+ORD-1050,2024-03-17,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1897,2024-02-02,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1211,2024-12-08,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,3,2199.0,6597.0
+ORD-1846,2024-02-28,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1068,2024-11-03,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1771,2024-08-28,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,3,6499.0,19497.0
+ORD-1568,2024-09-14,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1862,2024-05-26,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1233,2024-01-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1766,2024-12-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,5,5299.0,26495.0
+ORD-1761,2024-05-25,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,2,599.0,1198.0
+ORD-1373,2024-09-06,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1551,2024-08-17,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1374,2024-04-12,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,4,4199.0,16796.0
+ORD-1562,2024-03-28,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1680,2024-07-26,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1384,2024-09-08,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,4,1599.0,6396.0
+ORD-1206,2024-10-07,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1903,2024-02-05,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,1,899.0,899.0
+ORD-1626,2024-11-05,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,2,1499.0,2998.0
+ORD-1737,2024-05-29,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1834,2024-11-22,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,2,5299.0,10598.0
+ORD-1267,2024-10-30,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,3,899.0,2697.0
+ORD-1752,2024-08-29,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1264,2024-07-16,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,1,1799.0,1799.0
+ORD-1393,2024-06-19,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1708,2024-10-10,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,4,1599.0,6396.0
+ORD-1800,2024-07-18,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1739,2024-08-22,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1608,2024-06-12,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1155,2024-01-12,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,2,4999.0,9998.0
+ORD-1667,2024-04-13,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,3,1599.0,4797.0
+ORD-1248,2024-05-25,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,East,1,3199.0,3199.0
+ORD-1523,2024-05-19,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-1416,2024-10-24,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,2,799.0,1598.0
+ORD-1638,2024-08-05,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,2,5299.0,10598.0
+ORD-1199,2024-08-04,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1627,2024-10-04,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,2,1899.0,3798.0
+ORD-1053,2024-06-13,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1860,2024-11-23,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1159,2024-02-09,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,1,2899.0,2899.0
+ORD-1172,2024-10-13,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,5,1799.0,8995.0
+ORD-1900,2024-07-26,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1794,2024-08-08,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1707,2024-08-09,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1252,2024-03-19,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1785,2024-05-09,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,2,649.0,1298.0
+ORD-1132,2024-11-10,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1069,2024-10-26,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,Central,4,1899.0,7596.0
+ORD-1455,2024-09-09,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,1,2299.0,2299.0
+ORD-1369,2024-07-15,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,1,1799.0,1799.0
+ORD-1105,2024-03-08,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,2,1499.0,2998.0
+ORD-1514,2024-12-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,3,6499.0,19497.0
+ORD-1662,2024-08-14,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1715,2024-07-19,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1630,2024-05-28,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,1,1799.0,1799.0
+ORD-1601,2024-08-20,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,2,2499.0,4998.0
+ORD-1171,2024-08-24,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1530,2024-04-08,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1817,2024-06-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1727,2024-08-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,3,1499.0,4497.0
+ORD-1018,2024-07-15,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1810,2024-07-17,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1125,2024-07-25,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,3,14999.0,44997.0
+ORD-1627,2024-10-04,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1442,2024-11-24,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1730,2024-09-25,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1259,2024-05-31,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1572,2024-10-26,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,1,799.0,799.0
+ORD-1562,2024-03-28,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,2,599.0,1198.0
+ORD-1488,2024-05-03,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1113,2024-04-17,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,2,2899.0,5798.0
+ORD-1660,2024-09-03,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1573,2024-05-27,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1312,2024-08-27,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1291,2024-04-15,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1850,2024-07-18,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1553,2024-04-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1052,2024-08-26,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1417,2024-05-04,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,3,3999.0,11997.0
+ORD-1026,2024-06-19,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,3,1799.0,5397.0
+ORD-1680,2024-07-26,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,2,8499.0,16998.0
+ORD-1093,2024-09-22,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,2,4199.0,8398.0
+ORD-1756,2024-06-24,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,2,5299.0,10598.0
+ORD-1774,2024-05-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1338,2024-12-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1642,2024-11-24,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1492,2024-05-25,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,Central,2,1499.0,2998.0
+ORD-1745,2024-02-15,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1898,2024-02-10,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1331,2024-09-29,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1108,2024-07-27,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1701,2024-04-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,2,7999.0,15998.0
+ORD-1756,2024-06-24,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1254,2024-12-09,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,1,899.0,899.0
+ORD-1848,2024-06-20,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,1,649.0,649.0
+ORD-1683,2024-03-09,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1219,2024-10-28,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1761,2024-05-25,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,1,1899.0,1899.0
+ORD-1728,2024-03-14,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1208,2024-07-08,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,1,1899.0,1899.0
+ORD-1451,2024-09-04,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,2199.0,2199.0
+ORD-1656,2024-05-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,4,5299.0,21196.0
+ORD-1799,2024-11-24,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1311,2024-08-03,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1707,2024-08-09,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1370,2024-05-17,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1557,2024-09-23,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,Central,1,3499.0,3499.0
+ORD-1148,2024-02-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,2,14999.0,29998.0
+ORD-1489,2024-10-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,3,6499.0,19497.0
+ORD-1343,2024-10-09,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,1,2499.0,2499.0
+ORD-1613,2024-03-04,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1544,2024-09-08,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,2,649.0,1298.0
+ORD-1254,2024-12-09,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,1,599.0,599.0
+ORD-1859,2024-05-26,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,2,5299.0,10598.0
+ORD-1347,2024-06-08,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1185,2024-07-22,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,2,1199.0,2398.0
+ORD-1538,2024-11-27,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1244,2024-06-26,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1225,2024-02-08,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,1,2899.0,2899.0
+ORD-1031,2024-04-17,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,2,1899.0,3798.0
+ORD-1354,2024-09-21,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1697,2024-07-08,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,3,3199.0,9597.0
+ORD-1188,2024-02-10,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1836,2024-03-31,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,3,6499.0,19497.0
+ORD-1068,2024-11-03,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,2,8499.0,16998.0
+ORD-1663,2024-06-20,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-1610,2024-11-27,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,1,599.0,599.0
+ORD-1062,2024-10-14,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,3,799.0,2397.0
+ORD-1282,2024-10-07,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,4,2499.0,9996.0
+ORD-1697,2024-07-08,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,3,2899.0,8697.0
+ORD-1832,2024-01-04,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-1160,2024-09-20,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,3,4999.0,14997.0
+ORD-1471,2024-04-03,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1177,2024-10-22,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,2,1799.0,3598.0
+ORD-1635,2024-07-20,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-1577,2024-06-23,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-1432,2024-08-27,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1582,2024-03-22,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,5,799.0,3995.0
+ORD-1230,2024-04-07,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1172,2024-10-13,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,3,2899.0,8697.0
+ORD-1869,2024-01-07,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1447,2024-04-07,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1076,2024-08-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1196,2024-07-11,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,2,6499.0,12998.0
+ORD-1176,2024-01-22,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1713,2024-09-26,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1629,2024-05-14,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,Central,1,3199.0,3199.0
+ORD-1299,2024-07-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1213,2024-05-17,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,4,899.0,3596.0
+ORD-1102,2024-07-19,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1515,2024-10-24,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1468,2024-04-16,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1390,2024-02-27,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,4,5299.0,21196.0
+ORD-1124,2024-05-09,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1723,2024-02-16,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,3,3499.0,10497.0
+ORD-1740,2024-08-07,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1085,2024-05-22,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1661,2024-10-29,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,Central,2,4999.0,9998.0
+ORD-1605,2024-04-10,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1572,2024-10-26,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1818,2024-08-04,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,2,649.0,1298.0
+ORD-1599,2024-06-27,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1308,2024-10-25,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1335,2024-06-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1120,2024-08-13,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,4,799.0,3196.0
+ORD-1870,2024-07-26,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1742,2024-05-28,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,2,799.0,1598.0
+ORD-1436,2024-06-22,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1727,2024-08-14,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,2,4999.0,9998.0
+ORD-1370,2024-05-17,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,2,1799.0,3598.0
+ORD-1006,2024-05-04,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1090,2024-02-07,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1443,2024-04-15,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,4,4999.0,19996.0
+ORD-1170,2024-08-19,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,2,4999.0,9998.0
+ORD-1179,2024-04-13,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,3,1799.0,5397.0
+ORD-1383,2024-01-23,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,5,3199.0,15995.0
+ORD-1175,2024-04-21,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1324,2024-10-09,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,3,1899.0,5697.0
+ORD-1430,2024-09-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,Central,1,1499.0,1499.0
+ORD-1633,2024-10-09,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1783,2024-08-30,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,3,6499.0,19497.0
+ORD-1319,2024-08-02,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,West,4,3999.0,15996.0
+ORD-1077,2024-06-25,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1367,2024-08-07,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1199,2024-08-04,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1194,2024-05-17,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,1,1199.0,1199.0
+ORD-1881,2024-02-29,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,3,1899.0,5697.0
+ORD-1602,2024-01-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,3,7999.0,23997.0
+ORD-1357,2024-06-07,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,3,3999.0,11997.0
+ORD-1082,2024-03-31,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1671,2024-02-25,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1384,2024-09-08,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,Central,1,1899.0,1899.0
+ORD-1692,2024-10-04,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,2,799.0,1598.0
+ORD-1268,2024-03-17,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,4,3999.0,15996.0
+ORD-1409,2024-09-24,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1855,2024-07-12,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1391,2024-03-19,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1433,2024-02-19,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,4,2899.0,11596.0
+ORD-1094,2024-08-13,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,Central,3,1199.0,3597.0
+ORD-1618,2024-05-04,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1780,2024-10-17,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1669,2024-07-22,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,2,1899.0,3798.0
+ORD-1212,2024-05-26,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,4,14999.0,59996.0
+ORD-1784,2024-08-28,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1782,2024-08-24,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,2199.0,4398.0
+ORD-1819,2024-02-08,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1358,2024-05-13,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,Central,2,5299.0,10598.0
+ORD-1372,2024-10-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1676,2024-02-22,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1118,2024-09-20,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-1753,2024-04-10,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,3,2299.0,6897.0
+ORD-1587,2024-09-05,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,Central,3,14999.0,44997.0
+ORD-1270,2024-08-29,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,4,1899.0,7596.0
+ORD-1250,2024-05-14,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1401,2024-03-09,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,4,14999.0,59996.0
+ORD-1868,2024-09-07,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,2,2199.0,4398.0
+ORD-1060,2024-10-28,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1370,2024-05-17,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1736,2024-06-22,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1093,2024-09-22,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,5,3499.0,17495.0
+ORD-1256,2024-05-20,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1809,2024-04-10,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1298,2024-09-21,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,Central,2,599.0,1198.0
+ORD-1381,2024-05-20,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,2,1599.0,3198.0
+ORD-1825,2024-08-29,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1572,2024-10-26,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,1,2499.0,2499.0
+ORD-1279,2024-08-03,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1107,2024-06-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,3,899.0,2697.0
+ORD-1241,2024-07-26,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,3,4999.0,14997.0
+ORD-1778,2024-09-16,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1645,2024-03-16,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1754,2024-05-09,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1896,2024-05-24,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1394,2024-02-11,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,1,1599.0,1599.0
+ORD-1855,2024-12-07,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,5,799.0,3995.0
+ORD-1622,2024-12-16,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,4,7999.0,31996.0
+ORD-1479,2024-04-08,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,West,2,3999.0,7998.0
+ORD-1804,2024-07-27,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1407,2024-06-25,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1176,2024-01-22,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1346,2024-09-21,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,4,7999.0,31996.0
+ORD-1749,2024-01-06,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,1,1599.0,1599.0
+ORD-1054,2024-04-17,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1599,2024-06-27,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1570,2024-03-13,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,3,2499.0,7497.0
+ORD-1379,2024-12-05,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,2,1899.0,3798.0
+ORD-1409,2024-09-24,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,1,649.0,649.0
+ORD-1842,2024-10-18,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1862,2024-05-26,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,2,899.0,1798.0
+ORD-1793,2024-09-20,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,3,4199.0,12597.0
+ORD-1175,2024-04-21,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,4,1899.0,7596.0
+ORD-1858,2024-07-10,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,2,1799.0,3598.0
+ORD-1874,2024-04-28,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1210,2024-08-10,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1417,2024-05-04,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,3,2899.0,8697.0
+ORD-1855,2024-07-12,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1666,2024-10-09,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1505,2024-03-19,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,3,3199.0,9597.0
+ORD-1807,2024-06-20,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,2199.0,2199.0
+ORD-1287,2024-05-23,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1229,2024-09-10,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1200,2024-10-09,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,4,4199.0,16796.0
+ORD-1460,2024-03-27,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,2,8499.0,16998.0
+ORD-1801,2024-09-18,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1613,2024-03-04,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1902,2024-06-22,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1360,2024-11-09,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1197,2024-02-05,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1192,2024-03-31,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1701,2024-04-09,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,2,1799.0,3598.0
+ORD-1829,2024-08-28,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,3,4199.0,12597.0
+ORD-1008,2024-05-25,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,Central,1,3999.0,3999.0
+ORD-1103,2024-03-06,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1158,2024-05-18,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,1,1799.0,1799.0
+ORD-1499,2024-12-09,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1526,2024-12-12,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1485,2024-08-22,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1083,2024-08-16,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1346,2024-09-21,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1383,2024-01-23,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1516,2024-07-30,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1522,2024-11-06,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,3,2899.0,8697.0
+ORD-1351,2024-04-11,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,2,1599.0,3198.0
+ORD-1084,2024-11-30,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1790,2024-05-03,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,2,2299.0,4598.0
+ORD-1532,2024-09-17,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1134,2024-09-02,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1845,2024-12-10,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,1,799.0,799.0
+ORD-1250,2024-05-14,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1195,2024-06-20,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,3,1899.0,5697.0
+ORD-1179,2024-04-13,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1540,2024-06-16,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,4,1599.0,6396.0
+ORD-1451,2024-09-04,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1728,2024-03-14,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,4,2499.0,9996.0
+ORD-1845,2024-12-10,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,3,5299.0,15897.0
+ORD-1795,2024-07-16,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,2199.0,2199.0
+ORD-1732,2024-05-08,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1361,2024-08-18,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,3,6499.0,19497.0
+ORD-1317,2024-11-13,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1781,2024-12-09,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1002,2024-07-14,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1558,2024-07-21,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,3,1799.0,5397.0
+ORD-1292,2024-09-14,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,Central,2,8499.0,16998.0
+ORD-1193,2024-12-20,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1004,2024-05-02,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1778,2024-09-16,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1346,2024-09-21,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1456,2024-09-27,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,3,7999.0,23997.0
+ORD-1022,2024-09-22,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-1343,2024-10-09,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1147,2024-02-28,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1082,2024-03-31,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1377,2024-07-08,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1491,2024-09-11,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,2,5299.0,10598.0
+ORD-1721,2024-11-07,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1651,2024-04-04,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,Central,1,3199.0,3199.0
+ORD-1828,2024-06-27,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,1,1899.0,1899.0
+ORD-1366,2024-07-26,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,Central,1,3999.0,3999.0
+ORD-1894,2024-09-02,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,Central,2,1499.0,2998.0
+ORD-1489,2024-10-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,2,4499.0,8998.0
+ORD-1843,2024-08-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1229,2024-09-10,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,3,2299.0,6897.0
+ORD-1190,2024-06-08,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,5,1599.0,7995.0
+ORD-1274,2024-06-29,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,Central,1,3999.0,3999.0
+ORD-1192,2024-03-31,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,2,14999.0,29998.0
+ORD-1490,2024-06-25,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1484,2024-10-23,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1691,2024-11-20,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,5,3999.0,19995.0
+ORD-1260,2024-01-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1348,2024-08-16,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1371,2024-10-24,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1547,2024-08-29,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1589,2024-09-16,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,2,4499.0,8998.0
+ORD-1637,2024-06-04,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1738,2024-05-11,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,2,6499.0,12998.0
+ORD-1401,2024-03-09,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1135,2024-08-09,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1439,2024-06-05,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1493,2024-12-27,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1599,2024-06-27,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1427,2024-04-26,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1040,2024-03-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,2,6499.0,12998.0
+ORD-1243,2024-07-25,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,2,5299.0,10598.0
+ORD-1364,2024-06-02,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1604,2024-09-14,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,2,1899.0,3798.0
+ORD-1126,2024-09-03,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,4,4999.0,19996.0
+ORD-1706,2024-12-07,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,2,649.0,1298.0
+ORD-1475,2024-04-29,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1340,2024-07-26,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1440,2024-12-16,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,1,1599.0,1599.0
+ORD-1520,2024-12-06,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1053,2024-06-13,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1819,2024-02-08,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,East,1,3199.0,3199.0
+ORD-1164,2024-09-25,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1561,2024-04-12,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1899,2024-07-30,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1820,2024-02-17,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1391,2024-03-19,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,2,2299.0,4598.0
+ORD-1628,2024-11-27,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1849,2024-10-14,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1610,2024-11-27,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,2,3999.0,7998.0
+ORD-1164,2024-09-25,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1619,2024-06-05,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1218,2024-05-21,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1386,2024-05-08,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1002,2024-07-14,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1004,2024-02-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1187,2024-03-28,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1412,2024-03-08,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1574,2024-07-16,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1895,2024-11-20,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,East,4,8499.0,33996.0
+ORD-1128,2024-01-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1644,2024-02-09,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,1,1199.0,1199.0
+ORD-1016,2024-01-09,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1846,2024-02-28,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-1530,2024-04-08,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,2,4199.0,8398.0
+ORD-1421,2024-04-02,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1394,2024-02-11,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,Central,3,4999.0,14997.0
+ORD-1457,2024-05-11,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,Central,3,3499.0,10497.0
+ORD-1847,2024-08-22,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,2,2299.0,4598.0
+ORD-1387,2024-06-09,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1887,2024-06-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1155,2024-01-12,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,2,1499.0,2998.0
+ORD-1014,2024-07-28,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1200,2024-10-09,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1361,2024-08-18,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1026,2024-06-19,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,Central,3,1199.0,3597.0
+ORD-1067,2024-05-03,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1210,2024-08-10,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,4,2499.0,9996.0
+ORD-1032,2024-02-06,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1825,2024-08-29,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,2,799.0,1598.0
+ORD-1127,2024-05-20,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,2,2299.0,4598.0
+ORD-1073,2024-05-30,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1450,2024-04-25,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,4,1499.0,5996.0
+ORD-1044,2024-02-29,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,3,7999.0,23997.0
+ORD-1473,2024-12-10,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1639,2024-03-15,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1025,2024-01-06,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1764,2024-10-22,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,2,2199.0,4398.0
+ORD-1331,2024-09-29,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,2,2499.0,4998.0
+ORD-1567,2024-09-07,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1482,2024-05-19,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,1,1799.0,1799.0
+ORD-1871,2024-05-27,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,4,649.0,2596.0
+ORD-1495,2024-06-25,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1338,2024-12-05,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1755,2024-07-03,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,4,2199.0,8796.0
+ORD-1375,2024-10-03,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1291,2024-04-15,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1905,2024-07-19,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1771,2024-08-28,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,Central,3,4999.0,14997.0
+ORD-1472,2024-09-09,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1868,2024-09-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,1,1599.0,1599.0
+ORD-1035,2024-03-14,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1541,2024-06-27,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,1,14999.0,14999.0
+ORD-1057,2024-10-05,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,3,7999.0,23997.0
+ORD-1410,2024-09-19,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,1,2899.0,2899.0
+ORD-1435,2024-09-11,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1117,2024-02-10,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1168,2024-08-02,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,3,8499.0,25497.0
+ORD-1428,2024-07-16,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1217,2024-01-08,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,5,14999.0,74995.0
+ORD-1328,2024-11-15,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,2,4199.0,8398.0
+ORD-1494,2024-07-21,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,2,2899.0,5798.0
+ORD-1686,2024-06-11,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,5,1499.0,7495.0
+ORD-1110,2024-11-23,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,5,799.0,3995.0
+ORD-1625,2024-02-05,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,Central,3,599.0,1797.0
+ORD-1068,2024-03-11,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1024,2024-11-08,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,3,2299.0,6897.0
+ORD-1560,2024-12-06,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1122,2024-06-23,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1705,2024-05-07,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,4,2499.0,9996.0
+ORD-1029,2024-06-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1344,2024-12-06,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1607,2024-06-12,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,3,4499.0,13497.0
+ORD-1704,2024-10-17,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,1,799.0,799.0
+ORD-1771,2024-08-28,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,2,1799.0,3598.0
+ORD-1458,2024-08-17,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,3,3199.0,9597.0
+ORD-1110,2024-11-23,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1083,2024-08-16,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,2,1899.0,3798.0
+ORD-1594,2024-04-18,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1049,2024-09-19,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1741,2024-03-16,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,3,3199.0,9597.0
+ORD-1066,2024-10-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1343,2024-10-09,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,2,1499.0,2998.0
+ORD-1452,2024-07-30,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1300,2024-05-26,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1099,2024-09-19,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1152,2024-05-29,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,2,2899.0,5798.0
+ORD-1185,2024-07-22,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,3,7999.0,23997.0
+ORD-1278,2024-06-26,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,3,1899.0,5697.0
+ORD-1455,2024-09-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1200,2024-10-09,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,2,1499.0,2998.0
+ORD-1061,2024-04-25,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,2,1899.0,3798.0
+ORD-1461,2024-07-20,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1448,2024-09-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1511,2024-05-28,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1576,2024-01-23,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,3,899.0,2697.0
+ORD-1063,2024-10-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1268,2024-03-17,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1046,2024-07-26,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,3,4999.0,14997.0
+ORD-1811,2024-05-30,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1685,2024-12-07,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,4,1499.0,5996.0
+ORD-1825,2024-08-29,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1180,2024-10-31,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1764,2024-10-22,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,3,1899.0,5697.0
+ORD-1741,2024-03-16,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1446,2024-07-08,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,2,5299.0,10598.0
+ORD-1239,2024-06-23,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1142,2024-04-05,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1756,2024-06-24,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1160,2024-09-20,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1183,2024-04-08,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,1,1599.0,1599.0
+ORD-1070,2024-08-21,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,2,4499.0,8998.0
+ORD-1735,2024-08-10,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,4,1899.0,7596.0
+ORD-1416,2024-10-24,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,1,7999.0,7999.0
+ORD-1152,2024-05-29,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,4,599.0,2396.0
+ORD-1667,2024-04-13,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1659,2024-08-23,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1044,2024-02-29,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,3,4999.0,14997.0
+ORD-1059,2024-09-24,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,1,899.0,899.0
+ORD-1788,2024-03-15,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,1,899.0,899.0
+ORD-1019,2024-05-31,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1671,2024-02-25,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,2,6499.0,12998.0
+ORD-1280,2024-12-01,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,1,1599.0,1599.0
+ORD-1277,2024-05-10,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,3,1199.0,3597.0
+ORD-1464,2024-03-27,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,4,1199.0,4796.0
+ORD-1437,2024-09-26,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,3,1799.0,5397.0
+ORD-1554,2024-06-27,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,2,1899.0,3798.0
+ORD-1697,2024-07-08,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1552,2024-09-23,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,4,2499.0,9996.0
+ORD-1650,2024-06-30,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,1,599.0,599.0
+ORD-1047,2024-06-05,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,2,2199.0,4398.0
+ORD-1052,2024-08-26,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1509,2024-04-18,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,1,7999.0,7999.0
+ORD-1051,2024-12-08,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1286,2024-07-08,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1563,2024-05-16,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1416,2024-10-24,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,Central,4,1599.0,6396.0
+ORD-1691,2024-11-20,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1674,2024-07-24,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,Central,1,599.0,599.0
+ORD-1268,2024-03-17,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,2,2899.0,5798.0
+ORD-1463,2024-04-20,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1399,2024-05-24,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,3,1199.0,3597.0
+ORD-1501,2024-03-28,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1828,2024-06-27,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,East,1,3199.0,3199.0
+ORD-1726,2024-02-05,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1247,2024-10-11,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1786,2024-08-17,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1572,2024-10-26,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,3,2899.0,8697.0
+ORD-1606,2024-09-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,2,1199.0,2398.0
+ORD-1065,2024-06-13,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1378,2024-09-06,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,South,1,5299.0,5299.0
+ORD-1508,2024-09-18,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1423,2024-06-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,3,1499.0,4497.0
+ORD-1642,2024-11-24,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,East,1,4199.0,4199.0
+ORD-1571,2024-07-06,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1037,2024-01-08,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,1,3199.0,3199.0
+ORD-1169,2024-04-17,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1469,2024-05-16,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,1,1899.0,1899.0
+ORD-1730,2024-09-25,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,4,1899.0,7596.0
+ORD-1144,2024-08-30,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-1134,2024-09-02,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1089,2024-06-23,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1849,2024-10-14,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1227,2024-01-03,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1745,2024-02-15,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,2,2199.0,4398.0
+ORD-1071,2024-11-18,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1687,2024-12-05,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,3,899.0,2697.0
+ORD-1152,2024-05-29,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1872,2024-01-06,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1733,2024-02-05,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,1,1899.0,1899.0
+ORD-1545,2024-01-26,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,5,3499.0,17495.0
+ORD-1005,2024-04-12,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,4,4499.0,17996.0
+ORD-1280,2024-12-01,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,2,2199.0,4398.0
+ORD-1859,2024-05-26,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1434,2024-04-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1155,2024-01-12,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1371,2024-10-24,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,4,1499.0,5996.0
+ORD-1240,2024-09-23,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,2,2299.0,4598.0
+ORD-1586,2024-10-02,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1728,2024-03-14,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1350,2024-04-09,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,2,1199.0,2398.0
+ORD-1856,2024-07-30,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,3,1899.0,5697.0
+ORD-1513,2024-08-18,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,Central,1,5299.0,5299.0
+ORD-1288,2024-02-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1441,2024-08-31,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1838,2024-10-16,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,1,899.0,899.0
+ORD-1088,2024-08-16,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,2,4199.0,8398.0
+ORD-1316,2024-10-27,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1792,2024-06-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1448,2024-09-14,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1840,2024-12-23,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,3,4199.0,12597.0
+ORD-1445,2024-09-07,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,2,1499.0,2998.0
+ORD-1342,2024-05-10,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1107,2024-06-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1873,2024-03-31,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1429,2024-12-02,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1576,2024-01-23,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1637,2024-06-04,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1535,2024-07-19,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1550,2024-08-21,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,2,4499.0,8998.0
+ORD-1906,2024-02-29,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1005,2024-04-12,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1528,2024-04-14,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,2,1499.0,2998.0
+ORD-1411,2024-03-18,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,3,7999.0,23997.0
+ORD-1706,2024-12-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,2,8499.0,16998.0
+ORD-1215,2024-09-29,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1472,2024-09-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1447,2024-04-07,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,4,2199.0,8796.0
+ORD-1198,2024-07-25,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1816,2024-04-27,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,3,1899.0,5697.0
+ORD-1807,2024-06-20,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,2,899.0,1798.0
+ORD-1902,2024-06-22,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1157,2024-10-16,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,2,899.0,1798.0
+ORD-1714,2024-04-19,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1227,2024-01-03,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,East,1,599.0,599.0
+ORD-1812,2024-08-23,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,2,599.0,1198.0
+ORD-1569,2024-06-21,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1086,2024-09-16,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1333,2024-08-24,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,Central,1,3499.0,3499.0
+ORD-1694,2024-03-20,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1652,2024-11-08,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1710,2024-05-15,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,2,1799.0,3598.0
+ORD-1861,2024-04-11,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1272,2024-11-02,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1337,2024-02-12,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,2,1599.0,3198.0
+ORD-1782,2024-08-24,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1134,2024-09-02,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1629,2024-05-14,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,1,899.0,899.0
+ORD-1136,2024-08-05,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1773,2024-07-13,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,2,2199.0,4398.0
+ORD-1782,2024-08-24,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,3,899.0,2697.0
+ORD-1126,2024-09-03,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,1,649.0,649.0
+ORD-1536,2024-02-07,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1048,2024-09-24,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,Central,2,3199.0,6398.0
+ORD-1090,2024-02-07,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,2,2899.0,5798.0
+ORD-1493,2024-12-27,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1662,2024-08-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1706,2024-12-07,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1415,2024-09-16,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1703,2024-06-29,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,1,2299.0,2299.0
+ORD-1349,2024-05-23,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,2,7999.0,15998.0
+ORD-1557,2024-09-23,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,Central,2,3999.0,7998.0
+ORD-1081,2024-05-12,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,3,3499.0,10497.0
+ORD-1677,2024-06-10,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,1,799.0,799.0
+ORD-1496,2024-09-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1250,2024-05-14,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1223,2024-05-26,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,4,1599.0,6396.0
+ORD-1319,2024-02-08,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1719,2024-11-27,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1317,2024-11-13,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1807,2024-06-20,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,1,2899.0,2899.0
+ORD-1209,2024-06-08,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,2,799.0,1598.0
+ORD-1237,2024-03-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,East,1,8499.0,8499.0
+ORD-1001,2024-08-24,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1217,2024-01-08,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1542,2024-08-31,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,2,6499.0,12998.0
+ORD-1500,2024-07-08,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,1,4199.0,4199.0
+ORD-1856,2024-07-30,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,West,1,3999.0,3999.0
+ORD-1297,2024-03-29,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,5,649.0,3245.0
+ORD-1773,2024-07-13,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,2,1899.0,3798.0
+ORD-1033,2024-05-08,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1394,2024-02-11,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,2,6499.0,12998.0
+ORD-1788,2024-03-15,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1640,2024-09-20,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,3,4999.0,14997.0
+ORD-1711,2024-09-24,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1104,2024-09-13,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1281,2024-10-17,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,3,1899.0,5697.0
+ORD-1076,2024-08-05,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1599,2024-06-27,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,2,1899.0,3798.0
+ORD-1336,2024-07-31,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,2,1799.0,3598.0
+ORD-1520,2024-12-06,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,2,2299.0,4598.0
+ORD-1436,2024-06-22,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,2,7999.0,15998.0
+ORD-1056,2024-03-24,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-1877,2024-02-26,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1110,2024-11-23,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1531,2024-03-27,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1764,2024-10-22,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1474,2024-01-09,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1253,2024-04-20,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,3,7999.0,23997.0
+ORD-1153,2024-04-17,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,3,6499.0,19497.0
+ORD-1042,2024-06-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,3,4199.0,12597.0
+ORD-1486,2024-10-14,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,2,7999.0,15998.0
+ORD-1079,2024-03-11,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,2,1899.0,3798.0
+ORD-1179,2024-04-13,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1622,2024-12-16,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1196,2024-07-11,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1884,2024-10-12,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,Central,1,649.0,649.0
+ORD-1680,2024-07-26,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1315,2024-08-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,2,6499.0,12998.0
+ORD-1618,2024-05-04,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1504,2024-05-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1220,2024-01-04,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1312,2024-08-27,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1846,2024-02-28,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1202,2024-03-04,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,4,3999.0,15996.0
+ORD-1258,2024-06-26,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1098,2024-09-18,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,3,1799.0,5397.0
+ORD-1016,2024-01-09,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,3,899.0,2697.0
+ORD-1326,2024-02-04,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1117,2024-02-10,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1718,2024-10-13,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1826,2024-03-08,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1573,2024-05-27,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,2,1899.0,3798.0
+ORD-1847,2024-08-22,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1102,2024-07-19,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1100,2024-05-09,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1402,2024-08-25,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1104,2024-09-13,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1327,2024-06-29,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1735,2024-08-10,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1747,2024-12-06,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,1,1199.0,1199.0
+ORD-1555,2024-06-22,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1309,2024-05-04,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1577,2024-06-23,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1045,2024-07-06,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,3,8499.0,25497.0
+ORD-1761,2024-05-25,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,4,1799.0,7196.0
+ORD-1368,2024-08-30,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,3,2899.0,8697.0
+ORD-1454,2024-10-29,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,1,2899.0,2899.0
+ORD-1405,2024-10-10,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1510,2024-12-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,2,2499.0,4998.0
+ORD-1142,2024-04-05,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1445,2024-07-09,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,4,1799.0,7196.0
+ORD-1127,2024-05-20,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,2,4199.0,8398.0
+ORD-1097,2024-09-21,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1080,2024-07-12,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,3,1499.0,4497.0
+ORD-1673,2024-06-29,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1133,2024-05-20,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,2,14999.0,29998.0
+ORD-1744,2024-04-02,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,4,1199.0,4796.0
+ORD-1570,2024-03-13,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1111,2024-11-25,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,4,2299.0,9196.0
+ORD-1024,2024-11-08,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1427,2024-04-26,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,2,649.0,1298.0
+ORD-1067,2024-05-03,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,2,6499.0,12998.0
+ORD-1022,2024-09-22,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1359,2024-09-10,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1691,2024-11-20,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1767,2024-03-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1870,2024-07-26,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1302,2024-08-28,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,1,1599.0,1599.0
+ORD-1293,2024-03-05,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1539,2024-05-25,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,Central,1,4499.0,4499.0
+ORD-1575,2024-08-15,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1014,2024-07-28,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1841,2024-05-19,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,2,2299.0,4598.0
+ORD-1726,2024-02-05,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1041,2024-02-23,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1536,2024-02-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1765,2024-07-16,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1222,2024-11-26,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1318,2024-02-27,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,3,4499.0,13497.0
+ORD-1515,2024-10-24,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1796,2024-05-15,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1235,2024-03-20,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1446,2024-07-08,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1438,2024-07-15,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1808,2024-08-10,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1283,2024-04-27,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1159,2024-02-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1046,2024-07-26,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1557,2024-09-23,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,1,799.0,799.0
+ORD-1140,2024-12-08,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,4,3199.0,12796.0
+ORD-1276,2024-10-10,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1243,2024-07-25,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1380,2024-09-07,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,4,799.0,3196.0
+ORD-1106,2024-03-10,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,3,1199.0,3597.0
+ORD-1012,2024-03-19,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,4,8499.0,33996.0
+ORD-1791,2024-02-06,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1726,2024-02-05,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,2,3499.0,6998.0
+ORD-1204,2024-01-13,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,3,899.0,2697.0
+ORD-1631,2024-11-17,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1372,2024-10-06,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1036,2024-07-06,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,East,1,8499.0,8499.0
+ORD-1530,2024-04-08,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,2,599.0,1198.0
+ORD-1687,2024-12-05,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,2,14999.0,29998.0
+ORD-1863,2024-05-22,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1168,2024-08-02,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1022,2024-09-22,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,2,4999.0,9998.0
+ORD-1407,2024-06-25,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,2,2299.0,4598.0
+ORD-1821,2024-11-17,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1664,2024-05-24,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,1,14999.0,14999.0
+ORD-1593,2024-07-15,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1448,2024-09-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1115,2024-01-02,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1558,2024-07-21,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1285,2024-08-16,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1416,2024-10-24,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,2,6499.0,12998.0
+ORD-1458,2024-08-17,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,2,799.0,1598.0
+ORD-1821,2024-11-17,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,3,2299.0,6897.0
+ORD-1444,2024-12-03,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1252,2024-03-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,1,2499.0,2499.0
+ORD-1498,2024-09-04,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1383,2024-01-23,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,2,1599.0,3198.0
+ORD-1069,2024-10-26,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,2,4199.0,8398.0
+ORD-1255,2024-07-26,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1863,2024-05-22,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,2,4999.0,9998.0
+ORD-1587,2024-09-05,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,1,7999.0,7999.0
+ORD-1376,2024-06-16,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,2,649.0,1298.0
+ORD-1867,2024-07-07,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,East,1,649.0,649.0
+ORD-1055,2024-10-18,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,1,7999.0,7999.0
+ORD-1515,2024-10-24,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,2,8499.0,16998.0
+ORD-1698,2024-09-19,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,3,7999.0,23997.0
+ORD-1866,2024-09-29,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1455,2024-09-09,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1314,2024-02-09,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1007,2024-12-10,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,2,6499.0,12998.0
+ORD-1244,2024-06-26,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,1,649.0,649.0
+ORD-1171,2024-08-24,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1425,2024-10-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,1,6499.0,6499.0
+ORD-1746,2024-05-28,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,3,4199.0,12597.0
+ORD-1851,2024-11-08,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1424,2024-04-08,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1515,2024-10-24,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1095,2024-02-15,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,3,2899.0,8697.0
+ORD-1542,2024-08-31,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,2,3999.0,7998.0
+ORD-1728,2024-03-14,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1156,2024-05-20,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,3,2899.0,8697.0
+ORD-1200,2024-10-09,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1852,2024-08-23,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1629,2024-05-14,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,1,4199.0,4199.0
+ORD-1326,2024-02-04,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1616,2024-10-19,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,2,5299.0,10598.0
+ORD-1462,2024-04-04,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,5,3999.0,19995.0
+ORD-1796,2024-05-15,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,3,3199.0,9597.0
+ORD-1459,2024-05-21,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1672,2024-10-11,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,3,2299.0,6897.0
+ORD-1330,2024-11-08,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1014,2024-07-28,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,3,2199.0,6597.0
+ORD-1214,2024-05-10,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,2,1899.0,3798.0
+ORD-1769,2024-04-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,2,899.0,1798.0
+ORD-1203,2024-02-18,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1266,2024-03-05,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1296,2024-09-08,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,3,2899.0,8697.0
+ORD-1130,2024-10-06,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,5,4499.0,22495.0
+ORD-1555,2024-06-22,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1731,2024-08-07,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1614,2024-09-15,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1881,2024-02-29,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1058,2024-08-18,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,2,2199.0,4398.0
+ORD-1612,2024-04-25,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1649,2024-05-27,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1664,2024-05-24,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,2,4499.0,8998.0
+ORD-1428,2024-07-16,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,East,1,4199.0,4199.0
+ORD-1604,2024-09-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1093,2024-09-22,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1667,2024-04-13,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,3,1799.0,5397.0
+ORD-1891,2024-10-13,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1477,2024-04-19,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1365,2024-03-28,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,2,1199.0,2398.0
+ORD-1431,2024-07-24,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,1,1799.0,1799.0
+ORD-1763,2024-07-06,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1305,2024-09-19,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1352,2024-04-22,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1485,2024-08-22,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,4,1899.0,7596.0
+ORD-1323,2024-06-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1393,2024-06-19,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,5,5299.0,26495.0
+ORD-1679,2024-10-05,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1809,2024-04-10,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1478,2024-11-06,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1070,2024-08-21,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,3,1799.0,5397.0
+ORD-1449,2024-11-06,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1657,2024-03-09,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1502,2024-06-11,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1072,2024-09-24,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,2,8499.0,16998.0
+ORD-1404,2024-07-18,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1393,2024-06-19,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1224,2024-06-26,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1161,2024-07-30,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,2,1199.0,2398.0
+ORD-1404,2024-07-18,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,West,3,1599.0,4797.0
+ORD-1570,2024-03-13,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,2,14999.0,29998.0
+ORD-1496,2024-09-19,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1525,2024-09-06,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,1,1199.0,1199.0
+ORD-1026,2024-06-19,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,Central,1,4999.0,4999.0
+ORD-1876,2024-08-07,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1602,2024-01-06,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1531,2024-03-27,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,2,3999.0,7998.0
+ORD-1466,2024-04-06,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1003,2024-08-21,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1610,2024-11-27,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1784,2024-08-28,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1159,2024-02-09,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1720,2024-01-09,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,4,649.0,2596.0
+ORD-1829,2024-08-28,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1275,2024-09-13,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,2,899.0,1798.0
+ORD-1609,2024-07-27,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1654,2024-01-16,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,3,3999.0,11997.0
+ORD-1507,2024-03-03,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,2,1799.0,3598.0
+ORD-1811,2024-05-30,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,4,2499.0,9996.0
+ORD-1182,2024-07-05,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,3,1599.0,4797.0
+ORD-1849,2024-10-14,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,2,2499.0,4998.0
+ORD-1189,2024-10-31,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,4,899.0,3596.0
+ORD-1090,2024-02-07,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1361,2024-08-18,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1027,2024-08-15,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,4,3199.0,12796.0
+ORD-1712,2024-01-10,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1443,2024-04-15,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1505,2024-03-19,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,West,1,7999.0,7999.0
+ORD-1678,2024-07-24,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1295,2024-07-08,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1588,2024-02-10,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1403,2024-10-26,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,2,3999.0,7998.0
+ORD-1244,2024-06-26,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1322,2024-11-28,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-1192,2024-03-31,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1012,2024-03-19,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,2,1499.0,2998.0
+ORD-1421,2024-04-02,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1021,2024-08-06,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1548,2024-02-07,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,5,2299.0,11495.0
+ORD-1500,2024-07-08,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,Central,1,1899.0,1899.0
+ORD-1815,2024-04-24,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,2,5299.0,10598.0
+ORD-1249,2024-08-17,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1559,2024-11-20,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,4,799.0,3196.0
+ORD-1340,2024-07-26,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1458,2024-08-17,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1642,2024-11-24,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,1,1599.0,1599.0
+ORD-1149,2024-09-19,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,East,1,4499.0,4499.0
+ORD-1684,2024-05-13,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1473,2024-12-10,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1307,2024-06-06,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,Central,4,7999.0,31996.0
+ORD-1093,2024-09-22,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1584,2024-02-11,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,3,2199.0,6597.0
+ORD-1517,2024-02-13,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1388,2024-04-17,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,2,4199.0,8398.0
+ORD-1422,2024-02-16,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1359,2024-09-10,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1862,2024-05-26,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,4,1599.0,6396.0
+ORD-1012,2024-03-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
+ORD-1076,2024-08-05,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1564,2024-02-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1595,2024-07-20,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1889,2024-02-04,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1114,2024-04-04,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,2,1899.0,3798.0
+ORD-1691,2024-11-20,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,2,1899.0,3798.0
+ORD-1602,2024-01-06,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1883,2024-11-20,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,3,3199.0,9597.0
+ORD-1801,2024-09-18,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,2,899.0,1798.0
+ORD-1377,2024-07-08,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,1,6499.0,6499.0
+ORD-1109,2024-09-06,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,West,1,3999.0,3999.0
+ORD-1180,2024-10-31,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,5,1499.0,7495.0
+ORD-1313,2024-10-07,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,5,1499.0,7495.0
+ORD-1780,2024-10-17,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1762,2024-08-15,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1751,2024-01-09,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1327,2024-06-29,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,3,4999.0,14997.0
+ORD-1648,2024-06-19,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1297,2024-03-29,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1094,2024-08-13,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,Central,2,2899.0,5798.0
+ORD-1725,2024-03-10,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1011,2024-11-14,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1650,2024-06-30,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,1,2299.0,2299.0
+ORD-1345,2024-06-11,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1405,2024-10-10,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,2,799.0,1598.0
+ORD-1743,2024-10-26,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1617,2024-09-22,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1762,2024-08-15,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,2,1499.0,2998.0
+ORD-1583,2024-04-11,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,2,2199.0,4398.0
+ORD-1854,2024-05-08,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1170,2024-08-19,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,3,1599.0,4797.0
+ORD-1483,2024-04-24,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1134,2024-09-02,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,2,8499.0,16998.0
+ORD-1015,2024-06-04,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,3,8499.0,25497.0
+ORD-1269,2024-02-25,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,2,3199.0,6398.0
+ORD-1880,2024-09-05,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1137,2024-08-08,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,South,1,799.0,799.0
+ORD-1022,2024-09-22,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,1,1499.0,1499.0
+ORD-1453,2024-04-16,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,2,14999.0,29998.0
+ORD-1631,2024-11-17,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1294,2024-06-03,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,Central,3,599.0,1797.0
+ORD-1772,2024-02-11,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1892,2024-07-03,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,2,4499.0,8998.0
+ORD-1423,2024-06-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,2,6499.0,12998.0
+ORD-1835,2024-04-17,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1395,2024-07-26,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1782,2024-08-24,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,East,1,799.0,799.0
+ORD-1735,2024-08-10,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1701,2024-04-09,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1760,2024-10-17,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1827,2024-08-08,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,Central,1,1799.0,1799.0
+ORD-1484,2024-10-23,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1096,2024-07-30,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1580,2024-01-06,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1719,2024-11-27,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1496,2024-09-19,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1769,2024-04-06,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1532,2024-09-17,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,North,2,649.0,1298.0
+ORD-1556,2024-05-08,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,1,899.0,899.0
+ORD-1092,2024-10-07,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1831,2024-08-15,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1321,2024-04-07,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,2,4499.0,8998.0
+ORD-1689,2024-06-14,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,1,1199.0,1199.0
+ORD-1823,2024-09-16,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,2,1199.0,2398.0
+ORD-1064,2024-11-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1368,2024-08-30,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1804,2024-07-27,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,2,2499.0,4998.0
+ORD-1693,2024-11-30,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,West,3,1499.0,4497.0
+ORD-1030,2024-07-14,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,1,1199.0,1199.0
+ORD-1092,2024-10-07,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1246,2024-05-19,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,1,1199.0,1199.0
+ORD-1879,2024-06-08,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1123,2024-03-30,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,2,4199.0,8398.0
+ORD-1857,2024-02-06,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,4,599.0,2396.0
+ORD-1681,2024-05-17,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1798,2024-08-17,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,3,2299.0,6897.0
+ORD-1005,2024-04-12,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1616,2024-10-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1814,2024-01-11,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1641,2024-05-14,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1282,2024-10-07,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1154,2024-05-03,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1543,2024-09-16,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1790,2024-05-03,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,1,1899.0,1899.0
+ORD-1533,2024-03-06,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,3,2299.0,6897.0
+ORD-1855,2024-07-12,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1387,2024-06-09,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,2,3499.0,6998.0
+ORD-1207,2024-11-26,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,2,1899.0,3798.0
+ORD-1776,2024-07-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,1,6499.0,6499.0
+ORD-1158,2024-05-18,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1091,2024-08-31,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1295,2024-07-08,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,3,14999.0,44997.0
+ORD-1396,2024-01-06,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,Central,1,649.0,649.0
+ORD-1901,2024-02-07,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1854,2024-05-08,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,2,4499.0,8998.0
+ORD-1347,2024-06-08,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1565,2024-03-21,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,East,2,899.0,1798.0
+ORD-1306,2024-02-16,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,2,5299.0,10598.0
+ORD-1870,2024-07-26,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,1,14999.0,14999.0
+ORD-1709,2024-02-05,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1090,2024-02-07,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,3,2299.0,6897.0
+ORD-1245,2024-07-14,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,East,1,5299.0,5299.0
+ORD-1578,2024-04-07,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,4,6499.0,25996.0
+ORD-1851,2024-11-08,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,2,14999.0,29998.0
+ORD-1406,2024-10-06,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,2199.0,4398.0
+ORD-1290,2024-05-31,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,2,1599.0,3198.0
+ORD-1111,2024-11-25,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1696,2024-07-08,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1738,2024-05-11,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,Central,1,4999.0,4999.0
+ORD-1378,2024-09-06,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,South,1,1799.0,1799.0
+ORD-1087,2024-08-04,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,2,899.0,1798.0
+ORD-1455,2024-09-09,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1596,2024-07-07,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1119,2024-08-20,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1536,2024-02-07,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1168,2024-08-02,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,3,3999.0,11997.0
+ORD-1176,2024-01-22,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1828,2024-06-27,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,1,14999.0,14999.0
+ORD-1245,2024-07-14,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,East,2,6499.0,12998.0
+ORD-1074,2024-04-10,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1729,2024-07-24,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,2,4499.0,8998.0
+ORD-1122,2024-06-23,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1506,2024-08-09,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1150,2024-08-09,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1860,2024-11-23,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,1,1199.0,1199.0
+ORD-1853,2024-01-06,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1699,2024-06-07,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,3,1599.0,4797.0
+ORD-1236,2024-03-22,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,4,1899.0,7596.0
+ORD-1801,2024-09-18,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,3,1899.0,5697.0
+ORD-1517,2024-02-13,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1131,2024-04-05,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1397,2024-06-23,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,2,5299.0,10598.0
+ORD-1001,2024-08-24,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,2,4199.0,8398.0
+ORD-1069,2024-10-26,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,Central,3,1899.0,5697.0
+ORD-1429,2024-12-02,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,4,14999.0,59996.0
+ORD-1865,2024-11-20,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,2,2499.0,4998.0
+ORD-1576,2024-01-23,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1797,2024-12-20,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1774,2024-05-06,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,1,1899.0,1899.0
+ORD-1822,2024-02-09,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,South,1,7999.0,7999.0
+ORD-1273,2024-09-09,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1690,2024-02-27,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,2,4999.0,9998.0
+ORD-1759,2024-06-24,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1408,2024-10-30,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1831,2024-08-15,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,2,4199.0,8398.0
+ORD-1759,2024-06-24,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,North,1,1599.0,1599.0
+ORD-1806,2024-05-23,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,3,6499.0,19497.0
+ORD-1192,2024-03-31,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,South,1,1499.0,1499.0
+ORD-1401,2024-03-09,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,2,4999.0,9998.0
+ORD-1434,2024-04-06,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,2,14999.0,29998.0
+ORD-1771,2024-08-28,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,2199.0,2199.0
+ORD-1588,2024-02-10,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1390,2024-02-27,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,2199.0,2199.0
+ORD-1392,2024-07-09,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,2199.0,4398.0
+ORD-1783,2024-08-30,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1754,2024-05-09,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1882,2024-05-20,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,East,4,2299.0,9196.0
+ORD-1757,2024-09-11,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,3,1199.0,3597.0
+ORD-1869,2024-01-07,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,2,14999.0,29998.0
+ORD-1481,2024-08-16,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1399,2024-05-24,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1615,2024-04-09,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,Central,5,6499.0,32495.0
+ORD-1349,2024-05-23,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1420,2024-04-09,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,South,4,1899.0,7596.0
+ORD-1363,2024-10-09,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1672,2024-10-11,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,1,649.0,649.0
+ORD-1763,2024-07-06,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1716,2024-05-03,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1332,2024-08-23,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1640,2024-09-20,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,West,1,899.0,899.0
+ORD-1343,2024-10-09,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1724,2024-02-12,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,North,2,2299.0,4598.0
+ORD-1452,2024-07-30,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1841,2024-05-19,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,West,1,5299.0,5299.0
+ORD-1303,2024-01-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,1,1199.0,1199.0
+ORD-1059,2024-09-24,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,Central,2,649.0,1298.0
+ORD-1618,2024-05-04,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1355,2024-04-28,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1763,2024-07-06,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,2,2199.0,4398.0
+ORD-1451,2024-09-04,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1524,2024-06-07,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,2,3199.0,6398.0
+ORD-1540,2024-06-16,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,1,899.0,899.0
+ORD-1628,2024-11-27,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,West,2,3199.0,6398.0
+ORD-1123,2024-03-30,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1242,2024-09-28,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,2,599.0,1198.0
+ORD-1480,2024-08-17,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,South,4,899.0,3596.0
+ORD-1529,2024-08-16,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,3,4499.0,13497.0
+ORD-1244,2024-06-26,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1462,2024-04-04,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,2199.0,4398.0
+ORD-1833,2024-09-03,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1750,2024-08-23,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1622,2024-12-16,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,1,2499.0,2499.0
+ORD-1398,2024-09-06,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,West,1,4999.0,4999.0
+ORD-1380,2024-09-07,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,North,1,8499.0,8499.0
+ORD-1583,2024-04-11,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,1,2299.0,2299.0
+ORD-1442,2024-11-24,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1421,2024-04-02,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,West,1,2899.0,2899.0
+ORD-1061,2024-04-25,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,2,14999.0,29998.0
+ORD-1486,2024-10-14,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,1,4499.0,4499.0
+ORD-1249,2024-08-17,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,1,3999.0,3999.0
+ORD-1316,2024-10-27,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1650,2024-06-30,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,2,1899.0,3798.0
+ORD-1640,2024-09-20,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1566,2024-02-09,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,4,1899.0,7596.0
+ORD-1469,2024-05-16,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,1,3999.0,3999.0
+ORD-1121,2024-11-22,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1081,2024-05-12,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,East,1,1899.0,1899.0
+ORD-1636,2024-07-11,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1023,2024-10-04,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1617,2024-09-22,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,North,1,599.0,599.0
+ORD-1138,2024-11-10,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,North,1,799.0,799.0
+ORD-1231,2024-10-11,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-1173,2024-12-09,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,1,2299.0,2299.0
+ORD-1256,2024-05-20,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1241,2024-07-26,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,2,1199.0,2398.0
+ORD-1370,2024-05-17,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,1,649.0,649.0
+ORD-1703,2024-06-29,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,North,1,7999.0,7999.0
+ORD-1660,2024-09-03,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,North,3,3999.0,11997.0
+ORD-1401,2024-03-09,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,South,1,4199.0,4199.0
+ORD-1698,2024-09-19,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,Central,1,799.0,799.0
+ORD-1825,2024-08-29,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,1,4199.0,4199.0
+ORD-1329,2024-09-19,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,1,3199.0,3199.0
+ORD-1038,2024-03-12,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1010,2024-04-10,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1714,2024-04-19,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,3,3499.0,10497.0
+ORD-1643,2024-05-27,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,1,4999.0,4999.0
+ORD-1310,2024-07-14,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,2,2499.0,4998.0
+ORD-1232,2024-09-18,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1112,2024-02-22,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,1,1899.0,1899.0
+ORD-1460,2024-03-27,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,South,2,3199.0,6398.0
+ORD-1129,2024-05-12,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1478,2024-11-06,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,West,1,1199.0,1199.0
+ORD-1653,2024-07-28,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1532,2024-09-17,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,3,1899.0,5697.0
+ORD-1201,2024-01-11,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,East,1,2899.0,2899.0
+ORD-1439,2024-06-05,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1176,2024-01-22,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,South,1,4999.0,4999.0
+ORD-1616,2024-10-19,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,West,2,4199.0,8398.0
+ORD-1768,2024-10-15,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,South,1,2899.0,2899.0
+ORD-1284,2024-02-08,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-1493,2024-12-27,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1162,2024-04-09,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1604,2024-09-14,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,1,3199.0,3199.0
+ORD-1121,2024-11-22,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,2,1899.0,3798.0
+ORD-1096,2024-07-30,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,South,2,2299.0,4598.0
+ORD-1444,2024-12-03,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,1,8499.0,8499.0
+ORD-1245,2024-07-14,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,East,1,1899.0,1899.0
+ORD-1431,2024-07-24,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,2,649.0,1298.0
+ORD-1686,2024-06-11,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,East,1,1199.0,1199.0
+ORD-1356,2024-02-07,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1852,2024-08-23,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,North,2,4999.0,9998.0
+ORD-1618,2024-05-04,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,2199.0,2199.0
+ORD-1620,2024-08-21,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1851,2024-11-08,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,2,4499.0,8998.0
+ORD-1669,2024-07-22,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1122,2024-06-23,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,3,2899.0,8697.0
+ORD-1020,2024-06-21,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,East,1,1499.0,1499.0
+ORD-1467,2024-08-07,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,East,1,3999.0,3999.0
+ORD-1320,2024-10-31,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,Central,1,649.0,649.0
+ORD-1903,2024-02-05,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,2199.0,4398.0
+ORD-1839,2024-05-31,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,2,7999.0,15998.0
+ORD-1056,2024-03-24,PROD-EL-003,Bluetooth Soundbar 120W,Electronics,East,1,7999.0,7999.0
+ORD-1824,2024-02-19,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,North,2,3199.0,6398.0
+ORD-1543,2024-09-16,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,South,1,599.0,599.0
+ORD-1355,2024-04-28,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,South,1,1899.0,1899.0
+ORD-1826,2024-03-08,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1468,2024-04-16,PROD-BS-003,Dot-Grid Hardbound Leather Journal,Books & Stationery,West,1,599.0,599.0
+ORD-1146,2024-04-30,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1009,2024-06-19,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,East,1,2499.0,2499.0
+ORD-1190,2024-06-08,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,South,3,8499.0,25497.0
+ORD-1373,2024-09-06,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,West,2,1899.0,3798.0
+ORD-1238,2024-06-25,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,West,3,2499.0,7497.0
+ORD-1779,2024-05-26,PROD-HK-001,Stainless Steel Digital Air Fryer,Home & Kitchen,North,1,5299.0,5299.0
+ORD-1100,2024-05-09,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1509,2024-04-18,PROD-BP-004,Ionic Salon Hair Dryer,Beauty & Personal Care,Central,2,3199.0,6398.0
+ORD-1013,2024-08-16,PROD-BS-004,Minimalist Aluminum Laptop Stand,Books & Stationery,North,1,1899.0,1899.0
+ORD-1400,2024-01-04,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1699,2024-06-07,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,South,1,4499.0,4499.0
+ORD-1503,2024-08-21,PROD-HK-002,Cold Press Slow Juicer,Home & Kitchen,West,1,8499.0,8499.0
+ORD-1763,2024-07-06,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,North,1,1799.0,1799.0
+ORD-1355,2024-04-28,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,2,2499.0,4998.0
+ORD-1881,2024-02-29,PROD-BS-005,Desk LED Task Lamp with Wireless Charger,Books & Stationery,West,2,2299.0,4598.0
+ORD-1423,2024-06-14,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-1581,2024-09-16,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,2,1599.0,3198.0
+ORD-1114,2024-04-04,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,North,2,1199.0,2398.0
+ORD-1591,2024-06-06,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,West,1,1799.0,1799.0
+ORD-1430,2024-09-14,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,Central,1,899.0,899.0
+ORD-1322,2024-11-28,PROD-FA-001,Slim-Fit Stretch Cotton Chinos,Fashion & Apparel,East,1,1799.0,1799.0
+ORD-1658,2024-05-06,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,Central,1,4499.0,4499.0
+ORD-1297,2024-03-29,PROD-FA-003,Pro-Cushion Running Sneakers,Fashion & Apparel,South,1,3999.0,3999.0
+ORD-1519,2024-01-11,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,East,2,14999.0,29998.0
+ORD-1452,2024-07-30,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,North,1,4499.0,4499.0
+ORD-1154,2024-05-03,PROD-EL-001,Wireless Noise-Canceling Headphones,Electronics,East,1,4999.0,4999.0
+ORD-1013,2024-08-16,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,North,1,4199.0,4199.0
+ORD-1805,2024-03-09,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,North,1,14999.0,14999.0
+ORD-1288,2024-02-09,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1717,2024-03-31,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-1167,2024-12-20,PROD-FA-004,Full-Grain Leather Formal Shoes,Fashion & Apparel,West,3,4499.0,13497.0
+ORD-1579,2024-05-06,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,South,2,1599.0,3198.0
+ORD-1733,2024-02-05,PROD-BP-001,Vitamin C Brightening Face Serum,Beauty & Personal Care,West,1,799.0,799.0
+ORD-1236,2024-03-22,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,West,2,6499.0,12998.0
+ORD-1487,2024-09-17,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,North,2,1899.0,3798.0
+ORD-1864,2024-10-09,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,2,1199.0,2398.0
+ORD-1205,2024-06-05,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,North,1,6499.0,6499.0
+ORD-1463,2024-04-20,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1802,2024-02-26,PROD-BP-003,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,2199.0,2199.0
+ORD-1078,2024-04-21,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,South,3,649.0,1947.0
+ORD-1530,2024-04-08,PROD-EL-005,Fast-Charge Power Bank 20000mAh,Electronics,West,2,1899.0,3798.0
+ORD-1681,2024-05-17,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1844,2024-05-14,PROD-BP-002,Ceramide Barrier Repair Cream,Beauty & Personal Care,West,2,649.0,1298.0
+ORD-1054,2024-04-17,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,1,14999.0,14999.0
+ORD-1894,2024-09-02,PROD-HK-003,Tri-Ply Induction Cookware Set,Home & Kitchen,Central,2,4199.0,8398.0
+ORD-1199,2024-08-04,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,West,2,14999.0,29998.0
+ORD-1748,2024-10-28,PROD-EL-004,Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-1291,2024-04-15,PROD-FA-005,Classic Washed Denim Jacket,Fashion & Apparel,North,1,2899.0,2899.0
+ORD-1074,2024-04-10,PROD-HK-004,Robotic Vacuum Cleaner,Home & Kitchen,South,4,14999.0,59996.0
+ORD-1631,2024-11-17,PROD-BS-002,Executive Fountain Pen Gift Set,Books & Stationery,North,1,1499.0,1499.0
+ORD-1665,2024-08-08,PROD-BP-005,Pure Cold-Pressed Moroccan Argan Oil,Beauty & Personal Care,South,2,1199.0,2398.0
+ORD-1686,2024-11-06,PROD-HK-005,Electric Borosilicate Glass Kettle,Home & Kitchen,East,1,1599.0,1599.0
+ORD-1777,2024-09-27,PROD-BS-001,Python & SQL Data Masterclass,Books & Stationery,North,2,899.0,1798.0
+ORD-1522,2024-11-06,PROD-EL-002,Smart Fitness Watch Ultra,Electronics,South,1,6499.0,6499.0
+ORD-1879,2024-06-08,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,South,1,2499.0,2499.0
+ORD-1683,2024-03-09,PROD-FA-002,Merino Wool Blend Cardigan,Fashion & Apparel,North,1,2499.0,2499.0
